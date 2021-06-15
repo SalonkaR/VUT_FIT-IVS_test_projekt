@@ -1,0 +1,3 @@
+/mnt/d/prayforthatshit/ivs/ivs_project_1_2021/assignment/googletest/CMakeFiles/rebuild_cache.dir
+/mnt/d/prayforthatshit/ivs/ivs_project_1_2021/assignment/googletest/CMakeFiles/edit_cache.dir
+/mnt/d/prayforthatshit/ivs/ivs_project_1_2021/assignment/googletest/CMakeFiles/googletest.dir

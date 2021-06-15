@@ -1,0 +1,25 @@
+NonEmptyQueue.Insert 3 0.045452
+NonEmptyQueue.RemoveAllBackward 3 0.02765
+NonEmptyQueue.RemoveAllForward 3 0.0259152
+NonEmptyQueue.Find 3 0.0262414
+NonEmptyQueue.Length 3 0.026066
+EmptyQueue.Insert 3 0.0262587
+EmptyQueue.Remove 4 0.0193413
+EmptyQueue.Find 4 0.0205171
+EmptyQueue.Length 4 0.0202591
+EmptyTree.InsertNode 3 0.0471465
+EmptyTree.DeleteNode 3 0.0282364
+EmptyTree.FindNode 3 0.0297944
+NonEmptyTree.InsertNode 3 0.0280002
+NonEmptyTree.DeleteNode 3 0.0288236
+NonEmptyTree.FindNode 3 0.0294904
+NonEmptyMatrix.Set 3 0.0316098
+NonEmptyMatrix.Get 3 0.0291352
+NonEmptyMatrix.OperatorEqual 3 0.0312675
+NonEmptyMatrix.OperatorPlus 3 0.0316438
+NonEmptyMatrix.OperatorMultiply 3 0.0300884
+NonEmptyMatrix.OperatorMultiplyConstant 3 0.0297119
+NonEmptyMatrix.SolveEquation 3 0.0287367
+NonEmptyMatrix.Transpose 3 0.0282368
+NonEmptyMatrix.Inverse 3 0.0297724
+---
